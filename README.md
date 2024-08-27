@@ -26,18 +26,18 @@ To present the data in an accessible and actionable format, I created two dashbo
 
 Sales Dashboard:
 
-Total Sales
-Profit
-Quantity
-Sales Profit Trend Over Time Chart
+Total Sales,
+Profit,
+Quantity,
+Sales Profit Trend Over Time Chart,
 Sales & Profit by Subcategory Charts
 This dashboard provides a comprehensive overview of sales performance, helping stakeholders quickly assess the overall health of the business.
 
 Customer Dashboard:
 
-Total Customers
-Sales per Customer
-Orders
-Customer Distribution Chart
+Total Customers,
+Sales per Customer,
+Orders,
+Customer Distribution Chart,
 Top 10 Customers by Profit Chart
 The customer dashboard focuses on customer behavior and profitability, enabling deeper insights into customer segments and identifying high-value customers.
